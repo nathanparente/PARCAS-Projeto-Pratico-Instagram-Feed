@@ -1,0 +1,11 @@
+@import url("./variables.scss");
+
+body {
+    background-color: $background-white;
+    font-family:$font;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    min-width: fit-content;
+
+}
