@@ -1,14 +1,16 @@
 .menu {
     display: flex;
+    align-items: center;
     padding-right: 1.5em;
 
     .icon{
-        margin-right: 1.5em;
-        width: 23px;
-        height: 23px;
+        margin-right: 1.2em;
+        width: 25px;
+        height: 25px;
 
         &:hover{
             cursor: pointer;
         }
     }
+    
 }

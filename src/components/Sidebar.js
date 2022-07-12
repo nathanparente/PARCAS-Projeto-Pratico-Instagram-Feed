@@ -16,7 +16,7 @@ function Sidebar() {
                 <Profile 
                     username="nvdesign.ofc" 
                     caption="Nathan Vieira" 
-                    urlText="Switch" 
+                    urlText="Mudar" 
                     iconSize="big" 
                     image={image}    
                 />

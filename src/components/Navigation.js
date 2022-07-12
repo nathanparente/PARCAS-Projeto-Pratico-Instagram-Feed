@@ -8,10 +8,10 @@ function Navigation (){
     return(
         <div className="navigation">
             <div className="container">
-                <img className="logo" src={logo} alt="instagram logo" />
+                <a href='https://www.instagram.com/'><img className="logo" src={logo} alt="instagram logo" /></a>
                 <div className="search">
                     <img className="searchIcon" src={searchIcon} alt="search icon" />
-                    <spa className="searchText">Search</spa>
+                    <input type="text" placeholder='Pesquisar'/>
                 </div>
                 <Menu/>
             </div>
@@ -20,3 +20,10 @@ function Navigation (){
 }
 
 export default Navigation;
+
+/*
+<div className="search">
+                    <img className="searchIcon" src={searchIcon} alt="search icon" />
+                    <spa className="searchText">Pesquisar</spa>
+                </div>
+*/
