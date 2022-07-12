@@ -13,8 +13,8 @@ function Navigation (){
                     <img className="searchIcon" src={searchIcon} alt="search icon" />
                     <spa className="searchText">Search</spa>
                 </div>
+                <Menu/>
             </div>
-            <Menu/>
         </div>
     )
 }

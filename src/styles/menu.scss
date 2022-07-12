@@ -1,10 +1,14 @@
-@import url("./variables.scss");
+.menu {
+    display: flex;
+    padding-right: 1.5em;
 
-.navigation {
-    position: fixed;
-    top:0;
-    z-index: 2;
-    background-color: $background-white;
-    width: 100%;
-    border-bottom: 1px solid $border-color-grey;
+    .icon{
+        margin-right: 1.5em;
+        width: 23px;
+        height: 23px;
+
+        &:hover{
+            cursor: pointer;
+        }
+    }
 }
