@@ -1,6 +1,18 @@
-# Getting Started with my Project
+<h1 align="center">PROJETO INSTAGRAM COM REACT<h1>
+
+# 📃 Description
+  
+(Eng)</br>
+  This project was developed during the PARÇAS DEVELOPERS SCHOOL course and the main focus is on learning REACT JS to make the site work correctly. 
+  
+(Pt-br)</br>
+  Este projeto foi desenvolvido durante o curso da PARÇAS DEVELOPERS SCHOOL e o principal destaque está no aprendizado do REACT JS para fazer o site funcionar corretamente. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+ ### ⚙ Layout e Functions
+
+<img align="center" src="src/images/LAYOUTVIEWS3.gif" alt="desktop and mobile video">
 
 ## Available Scripts
 
@@ -14,12 +26,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">Copyright © 2022 nathanparente</p>
